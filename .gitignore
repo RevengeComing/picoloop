@@ -1,0 +1,10 @@
+.vscode/
+
+loop.c
+*.pyc
+
+picoloop.egg-info/
+picoev/
+env/
+dist/
+build/
